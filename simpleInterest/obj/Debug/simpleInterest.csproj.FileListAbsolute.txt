@@ -1,0 +1,7 @@
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\bin\simpleInterest.dll.config
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\bin\simpleInterest.dll
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\bin\simpleInterest.pdb
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\obj\Debug\simpleInterest.csproj.AssemblyReference.cache
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\obj\Debug\simpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\obj\Debug\simpleInterest.dll
+C:\Users\loshithan\Desktop\htmlPractice\ado.net\simpleInterest\simpleInterest\obj\Debug\simpleInterest.pdb
